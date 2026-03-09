@@ -1,4 +1,14 @@
+---
+title: VFLEX Public API
+layout: default
+nav_order: 1
+---
+
 # VFLEX Public API
+
+[Configuration Tool](vflex-tool.html){: .btn .btn-primary .mr-2 }
+[Debug Tool](vflex-debug.html){: .btn .mr-2 }
+[Source Code](https://github.com/tundra-labs/vflex_public_api){: .btn .mr-2 }
 
 A JavaScript library for communicating with the VFLEX hardware device over MIDI using the Web MIDI API.
 
