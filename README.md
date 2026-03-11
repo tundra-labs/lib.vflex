@@ -22,7 +22,7 @@ Looking for a full-featured app? The official VFLEX app includes additional feat
 
 ## About this library
 
-`lib.vflex.js` is a JavaScript library for communicating with the VFLEX device over MIDI using the Web MIDI API. It provides a high-level API for connection management, the custom framing protocol, and command/response parsing — allowing you to configure voltage, current, and read device diagnostics directly from a browser.
+To ensure the long term viability of VFLEX and encourage community development, we're sharing `lib.vflex.js`. This JavaScript library documents the VFLEX communication protocol and provides a Web MIDI API interface for configuring voltage, current, and reading device diagnostics — all from the browser. We love when people build cool stuff with our hardware!
 
 ## MIDI Communication Protocol
 
