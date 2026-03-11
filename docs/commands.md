@@ -1,6 +1,6 @@
 ---
 title: Commands
-parent: lib.vflex Documentation
+parent: lib.vflex.app
 nav_order: 2
 ---
 

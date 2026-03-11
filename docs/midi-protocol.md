@@ -1,6 +1,6 @@
 ---
 title: MIDI Communication Protocol
-parent: lib.vflex Documentation
+parent: lib.vflex.app
 nav_order: 1
 ---
 

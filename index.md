@@ -1,11 +1,11 @@
 ---
-title: lib.vflex Documentation
+title: lib.vflex.app
 layout: default
 nav_order: 1
 has_children: true
 ---
 
-# lib.vflex Documentation
+# lib.vflex.app
 
 ## What is VFLEX?
 

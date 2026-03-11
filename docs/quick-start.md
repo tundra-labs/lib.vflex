@@ -1,6 +1,6 @@
 ---
 title: Quick Start
-parent: lib.vflex Documentation
+parent: lib.vflex.app
 nav_order: 3
 ---
 
