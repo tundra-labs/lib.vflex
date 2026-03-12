@@ -47,6 +47,18 @@ Or include directly in a browser:
 <script src="lib.vflex.js"></script>
 ```
 
+### Command-line tool
+
+A standalone CLI tool is also available for quick configuration and testing from the terminal:
+
+```bash
+npm install -g vflex-cli
+vflex-cli --status
+```
+
+See the [CLI Tool](docs/cli.html) page for full usage details.
+
 [Configuration Tool](vflex-tool.html){: .btn .btn-primary .mr-2 }
 [Debug Tool](vflex-debug.html){: .btn .mr-2 }
+[CLI Tool](docs/cli.html){: .btn .mr-2 }
 [Source Code](https://github.com/tundra-labs/lib.vflex){: .btn .mr-2 }

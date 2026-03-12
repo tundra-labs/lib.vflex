@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const JZZ = require('jzz');
-const { VFLEX, VFLEX_COMMANDS } = require('../lib.vflex.js');
+const { VFLEX, VFLEX_COMMANDS } = require('lib-vflex');
 
 // --- Helpers ----------------------------------------------------------------
 

@@ -1,13 +1,29 @@
 {
-  "name": "vflex-cli-example",
+  "name": "vflex-cli",
   "version": "1.0.0",
-  "private": true,
-  "description": "VFLEX CLI tool for Node.js",
+  "description": "Command-line tool for configuring and reading VFLEX USB-PD devices",
   "main": "cli.js",
   "bin": {
-    "vflex": "./cli.js"
+    "vflex-cli": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "vflex",
+    "usb-pd",
+    "midi",
+    "cli",
+    "power-delivery"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgbeno/vflex_public_api",
+    "directory": "examples"
   },
   "dependencies": {
-    "jzz": "^1.8.0"
+    "jzz": "^1.8.0",
+    "lib-vflex": "^1.0.0"
   }
 }
