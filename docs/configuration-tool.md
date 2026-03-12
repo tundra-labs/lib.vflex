@@ -1,7 +1,7 @@
 ---
 title: Configuration Tool
 parent: lib.vflex.app
-nav_order: 2
+nav_order: 7
 ---
 
 # Configuration Tool

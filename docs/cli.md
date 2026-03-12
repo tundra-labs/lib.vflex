@@ -1,7 +1,7 @@
 ---
 title: CLI Tool
 parent: lib.vflex.app
-nav_order: 9
+nav_order: 3
 ---
 
 # CLI Tool

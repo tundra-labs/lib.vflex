@@ -1,7 +1,7 @@
 ---
 title: Quick Start
 parent: lib.vflex.app
-nav_order: 5
+nav_order: 2
 ---
 
 # Quick Start
